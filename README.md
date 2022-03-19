@@ -136,7 +136,7 @@ You can set your social links in `_data/social.yml`. You can custom titles, URLs
 
 ```yml
 - title: Email
-  url: mailto://vszhub@gmail.com
+  url: mailto://junesuh0113@icloud.com
   icon: fas fa-envelope
 - title: Twitter
   url: https://twitter.com/vszhub
