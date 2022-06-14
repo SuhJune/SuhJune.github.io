@@ -6,3 +6,5 @@ last_modified_at: 2022-05-09 01:08:25 +0800
 tags: [learning]
 toc:  true
 ---
+
+notion 정리 하기 (시험 끝나고)
