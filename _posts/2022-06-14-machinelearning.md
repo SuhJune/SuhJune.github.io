@@ -7,4 +7,3 @@ tags: [learning]
 toc:  true
 ---
 
-notion 정리 하기 (시험 끝나고)
